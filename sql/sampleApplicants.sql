@@ -1,0 +1,22 @@
+INSERT INTO applications (name, birthday, location_of_birth, gender, marital_status, education, description, created_by)
+VALUES
+('John Doe', '1990-05-15', 'New York, USA', 'Male', 'Single', 'Bachelor\'s Degree', 'Experienced in medical administration.', 1),
+('Jane Smith', '1985-11-22', 'Los Angeles, USA', 'Female', 'Married', 'Master\'s Degree', 'Experienced nurse, passionate about patient care.', 1),
+('Michael Johnson', '1992-01-10', 'Chicago, USA', 'Male', 'Single', 'High School', 'Looking for entry-level healthcare jobs.', 2),
+('Emily Davis', '1988-08-30', 'Miami, USA', 'Female', 'Divorced', 'Bachelor\'s Degree', 'Skilled in medical billing and coding.', 3),
+('Sarah Williams', '1980-04-25', 'Houston, USA', 'Female', 'Married', 'Master\'s Degree', '10+ years of experience in healthcare management.', 1),
+('James Brown', '1987-02-12', 'Phoenix, USA', 'Male', 'Single', 'Doctorate Degree', 'Specialized in pediatric medicine.', 2),
+('Linda Miller', '1995-09-17', 'Dallas, USA', 'Female', 'Widowed', 'Bachelor\'s Degree', 'Passionate about healthcare and patient advocacy.', 3),
+('David Wilson', '1993-07-30', 'San Francisco, USA', 'Male', 'Single', 'Bachelor\'s Degree', 'Clinical research experience in medical trials.', 1),
+('Sophia Moore', '1989-12-05', 'Las Vegas, USA', 'Female', 'Single', 'Master\'s Degree', 'Licensed healthcare provider with extensive training.', 2),
+('Daniel Taylor', '1991-03-18', 'Seattle, USA', 'Male', 'Divorced', 'Bachelor\'s Degree', 'Healthcare IT specialist with 5 years of experience.', 3),
+('Isabella Anderson', '1984-06-28', 'Denver, USA', 'Female', 'Married', 'Doctorate Degree', 'Experienced surgeon with advanced medical skills.', 1),
+('Lucas Thomas', '1994-11-02', 'San Diego, USA', 'Male', 'Single', 'High School', 'Entry-level position in hospital operations.', 2),
+('Olivia Jackson', '1986-01-16', 'Chicago, USA', 'Female', 'Single', 'Bachelor\'s Degree', 'Strong background in hospital administration.', 3),
+('Benjamin Harris', '1990-09-23', 'Los Angeles, USA', 'Male', 'Married', 'Master\'s Degree', 'Expert in patient safety and quality assurance.', 1),
+('Mia Clark', '1987-03-27', 'Miami, USA', 'Female', 'Single', 'Bachelor\'s Degree', 'Professional with healthcare marketing experience.', 2),
+('Ethan Lewis', '1996-12-05', 'Houston, USA', 'Male', 'Single', 'Bachelor\'s Degree', 'Certified medical technologist with lab experience.', 3),
+('Chloe Robinson', '1992-05-22', 'Dallas, USA', 'Female', 'Widowed', 'Doctorate Degree', 'Highly skilled in medical research and healthcare policy.', 1),
+('William Young', '1989-04-11', 'New York, USA', 'Male', 'Married', 'Master\'s Degree', 'Experienced in hospital supply chain management.', 2),
+('Avery Scott', '1994-10-29', 'Los Angeles, USA', 'Female', 'Single', 'Bachelor\'s Degree', 'Experienced pharmacy technician with patient care skills.', 3),
+('Alexander King', '1983-01-03', 'San Francisco, USA', 'Male', 'Married', 'Doctorate Degree', 'Healthcare professional with extensive surgical experience.', 1);
